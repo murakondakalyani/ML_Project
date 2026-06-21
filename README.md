@@ -2,6 +2,12 @@
 
 A Machine Learning-powered web application built using Streamlit that predicts customer churn for a telecommunications company and provides interactive data visualizations for business insights.
 
+
+
+https://github.com/user-attachments/assets/b4bef4d9-fe58-4d07-8bd8-0b63f365792e
+
+
+
 🚀 Features
 🔮 Customer Churn Prediction
 Predict whether a customer is likely to churn.
